@@ -1,0 +1,1 @@
+# studyProjForEatStreet for qa team
